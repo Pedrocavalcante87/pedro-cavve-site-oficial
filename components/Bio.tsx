@@ -55,11 +55,11 @@ export default function Bio() {
               </p>
 
               <p>
-                O início profissional aconteceu ao lado da 3R Music Records, com o lançamento de singles exclusivos pelo canal da gravadora. Em 2019, Pedro criou o Soul Mob, um projeto coletivo voltado ao R&B e ao trap, em parceria com a 102 Criações, período em que lançou músicas marcantes como "Vestígios" e "Lingerie Vermelha", consolidando sua assinatura sonora.
+                O início profissional aconteceu ao lado da 3R Music Records, com o lançamento de singles exclusivos pelo canal da gravadora. Em 2019, Pedro criou o Soul Mob, um projeto coletivo voltado ao R&B e ao trap, em parceria com a 102 Criações, período em que lançou músicas marcantes como &quot;Vestígios&quot; e &quot;Lingerie Vermelha&quot;, consolidando sua assinatura sonora.
               </p>
 
               <p>
-                Em 2022, deu início à sua carreira solo e passou a atuar como artista independente, ampliando sua liberdade criativa. Pedro Cavve transita entre diferentes gêneros e atmosferas musicais, explorando fusões e referências contemporâneas, como na faixa "t.o.t", em colaboração com Maciel Miller, reforçando sua versatilidade como artista e produtor.
+                Em 2022, deu início à sua carreira solo e passou a atuar como artista independente, ampliando sua liberdade criativa. Pedro Cavve transita entre diferentes gêneros e atmosferas musicais, explorando fusões e referências contemporâneas, como na faixa &quot;t.o.t&quot;, em colaboração com Maciel Miller, reforçando sua versatilidade como artista e produtor.
               </p>
             </div>
           </div>
