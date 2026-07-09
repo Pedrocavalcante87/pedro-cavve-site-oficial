@@ -61,7 +61,7 @@ export default function MusicHighlight() {
               </div>
 
               <p className="text-subtle-gray leading-relaxed">
-                Último lançamento de Pedro Cavve. Uma exploração sonora entre o R&B alternativo e o trap introspectivo, marcada pela produção atmosférica e letras que transitam entre vulnerabilidade e autoconhecimento.
+                Último lançamento de Pedro Cavve. Uma exploração sonora entre o R&B alternativo e o trap introspectivo, marcada pela produção atmosférica.
               </p>
 
               <a

@@ -31,7 +31,7 @@ export default function Hero() {
           className="text-lg md:text-xl text-white/60 font-light tracking-wide mb-14 animate-fade-in max-w-2xl mx-auto leading-relaxed"
           style={{ animationDelay: '300ms' }}
         >
-          Som noturno, íntimo e emocional
+          R&b, trap soul, música moderna e experimental.
         </p>
 
         {/* Subtle invitation CTA */}
